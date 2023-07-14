@@ -1,5 +1,5 @@
 - 🤍Hi I'm Dan or @ApplePastries, aspiring dev hoping to make cool things.🖤
-- 🇺🇸I'm based in New England, the region in the Northeast of the United States⛰️
+- 🇺🇸New England⛰️
 - 🧁Reach me at danpastries@gmail.com 🍎
 - 🖥️ Currently Attending College for Computer Science 🏫
 - 🔨#theOdinProject⚡
